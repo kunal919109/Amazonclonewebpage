@@ -33,24 +33,20 @@ A frontend UI clone of the Amazon homepage built using **HTML and CSS**. This pr
 * Product cards
 * Footer section
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-* HTML5
-* CSS3
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
 
 
 
-
-## 👨‍💻 Author
-
-**Kunal Kasar**
-
-```
-
-2. Open the project folder.
-3. Open `index.html` in your browser.
 
 ## 👨‍💻 Author
 
 **Kunal Kasar**
+
+
+
