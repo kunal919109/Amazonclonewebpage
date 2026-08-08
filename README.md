@@ -21,7 +21,7 @@ A frontend UI clone of the Amazon homepage built using **HTML and CSS**. This pr
 Add your project screenshot here:
 
 ```markdown
-![Amazon Homepage](screenshot.png)
+![Amazon Homepage](amazonclone.png)
 ```
 
 ## 🚀 How to Run
